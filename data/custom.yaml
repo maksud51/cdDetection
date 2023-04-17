@@ -1,0 +1,9 @@
+
+path: H:/Cat_Dog_Dataset
+train: H:/Cat_Dog_Dataset/train/
+val: H:/Cat_Dog_Dataset/valid/
+
+names:
+
+  0: cat
+  1: dog
